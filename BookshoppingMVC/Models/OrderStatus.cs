@@ -7,6 +7,8 @@ namespace BookshoppingMVC.Models
     public class OrderStatus
     {
         public int id { get; set; }
+        [Required]
+        public int StatusId { get; set; }
         [Required,MaxLength(20)]
         public string? StatusName { get; set; }
     }

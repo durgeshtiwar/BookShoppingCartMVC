@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ALHEaT3gWCi8ZSgmsKNoVRQ4ktGd0AnWxAbcHIjTWRFKvxITgN3AS5uxgmrLkpcRtPhxczF1rKwqBh08RAInw==",
+  "dgSpecHash": "3JqlorkYvzuyTNuTKsl6hBUHY519hS0mALKAlVa0+eNWRb+g1RRaaqodYlPy6FMsH7AkiAvCAH9e3bfCDC2Nkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
+  "projectFilePath": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\durge\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\durge\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

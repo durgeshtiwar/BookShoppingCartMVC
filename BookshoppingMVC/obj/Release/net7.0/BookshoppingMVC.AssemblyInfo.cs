@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BookshoppingMVC-aa81bade-bca6-4fb6-9938-622865f99272")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookshoppingMVC")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b22f60fbd4f15b3a4fadb862e75d7ccaeb6e63e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookshoppingMVC")]

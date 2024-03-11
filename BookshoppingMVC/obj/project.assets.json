@@ -12052,11 +12052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
+      "projectUniqueName": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
       "projectName": "BookshoppingMVC",
-      "projectPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
+      "projectPath": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\BookshoppingMVC.csproj",
       "packagesPath": "C:\\Users\\durge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\durge\\OneDrive\\Desktop\\Full Stack dotnet Developement Bootcamp\\BookshoppingMVC\\BookshoppingMVC\\obj\\",
+      "outputPath": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\durge\\AppData\\Roaming\\NuGet\\NuGet.Config",
