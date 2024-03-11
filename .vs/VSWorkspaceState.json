@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BookshoppingMVC",
-    "\\BookshoppingMVC\\Data",
-    "\\BookshoppingMVC\\Data\\Migrations"
+    "\\BookshoppingMVC"
   ],
   "SelectedNode": "\\BookshoppingMVC\\Program.cs",
   "PreviewInSolutionExplorer": false
