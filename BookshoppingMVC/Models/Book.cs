@@ -10,6 +10,11 @@ namespace BookshoppingMVC.Models
         [Required]
         [MaxLength(40)]
         public string ? BookName { get; set; }
+
+
+        [Required]
+        [MaxLength(40)]
+        public string? AuthorName { get; set; }
         public double price { get; set; }
         public string? Image { get; set; }
         [Required]
