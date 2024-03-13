@@ -22,6 +22,7 @@ namespace BookshoppingMVC.Models
         public Genre Genre { get; set; }
         public List<OrderDetails> OrderDetails { get; set; }
         public List<CartDetails> CartDetails { get; set; }
-
+        [NotMapped]
+        public string GenreName { get; set; }
     }
 }
