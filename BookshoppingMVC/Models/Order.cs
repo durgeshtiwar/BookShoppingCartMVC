@@ -6,14 +6,14 @@ namespace BookshoppingMVC.Models
     [Table("Order")]
     public class Order
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         [Required]
         public string UserId { get; set; }
         public DateTime CreateDate { get; set; } = DateTime.UtcNow;
         [Required]
-        public int OrderStatsId { get;set; }
+        public int OrderStatusId { get;set; }
         public bool isDeleted { get; set; }=false;
         public OrderStatus Orderstatus { get; set;}
-        public List<OrderDetails> OrderDetails { get; set; }
+        public List<OrderDetail> OrderDetail { get; set; }
     }
 }

@@ -20,8 +20,8 @@ namespace BookshoppingMVC.Models
         [Required]
         public int GenreId { get; set; }
         public Genre Genre { get; set; }
-        public List<OrderDetails> OrderDetails { get; set; }
-        public List<CartDetails> CartDetails { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
+        public List<CartDetail> CartDetails { get; set; }
         [NotMapped]
         public string GenreName { get; set; }
     }

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace BookshoppingMVC.Models
 {
     [Table("OrderDetails")]
-    public class OrderDetails
+    public class OrderDetail
     {
         public int Id { get; set; }
         [Required]
@@ -14,7 +14,7 @@ namespace BookshoppingMVC.Models
         [Required]
         public int Quantity { get; set; }
         [Required]
-        public double unitPrice { get; set; }
+        public double UnitPrice { get; set; }
         public Order Order { get; set; }
         public Book Book { get; set; }
     }

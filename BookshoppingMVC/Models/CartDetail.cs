@@ -4,15 +4,17 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace BookshoppingMVC.Models
 {
     [Table("Cart")]
-    public class CartDetails
+    public class CartDetail
     {
         public int Id { get; set; }
         [Required]
-        public int ShopingCartId { get; set; }
+        public int ShoppingCartId { get; set; }
         [Required]
         public int BookId { get; set; }
         [Required]
         public int Quantity { get; set; }
+        [Required]
+        public double UnitPrice { get; set; }
         public Book Book { get; set; }
         public ShoppingCart shoppingCart { get; set; }
     }
