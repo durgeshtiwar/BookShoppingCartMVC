@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|c:\\users\\durge\\onedrive\\desktop\\bookshoppingmvc\\bookshoppingmvc\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2FA6B-6198-4F79-BD3B-432B5823E133}|BookshoppingMVC\\BookshoppingMVC.csproj|solutionrelative:bookshoppingmvc\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +46,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\OrderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T10:47:22.109Z",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T06:23:47.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\Order.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T08:16:53.274Z",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BookshoppingMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T06:07:00.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookshoppingMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T06:00:09.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BookshoppingMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BookshoppingMVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:44:45.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\ICartRepository.cs",
               "RelativeDocumentMoniker": "BookshoppingMVC\\Repositories\\ICartRepository.cs",
@@ -120,173 +106,19 @@
               "RelativeToolTip": "BookshoppingMVC\\Repositories\\ICartRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T08:04:43.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CartDetail.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\CartDetail.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\CartDetail.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\CartDetail.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\CartDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T07:58:21.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T08:04:43.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T07:54:16.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "BookshoppingMVC\\Repositories\\CartRepository.cs",
               "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\CartRepository.cs",
               "RelativeToolTip": "BookshoppingMVC\\Repositories\\CartRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAxAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T07:40:35.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:40:47.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IHomeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\IHomeRepository.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Repositories\\IHomeRepository.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\IHomeRepository.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Repositories\\IHomeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:35:35.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Program.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Program.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:37:28.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\GlobalUsing.cs",
-              "RelativeToolTip": "BookshoppingMVC\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:06:32.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\HomeRepository.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Repositories\\HomeRepository.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Repositories\\HomeRepository.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Repositories\\HomeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:52:37.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\Book.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\Book.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIBQwBkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T03:45:42.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BookshoppingMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T10:17:04.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BookshoppingMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T09:40:19.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookDisplayModel.cs",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\BookDisplayModel.cs",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Models\\BookDisplayModel.cs",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Models\\BookDisplayModel.cs",
-              "RelativeToolTip": "BookshoppingMVC\\Models\\BookDisplayModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T05:03:12.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BookshoppingMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\durge\\OneDrive\\Desktop\\BookshoppingMVC\\BookshoppingMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BookshoppingMVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T10:05:06.233Z"
+              "WhenOpened": "2024-03-15T07:40:35.419Z"
             }
           ]
         }
